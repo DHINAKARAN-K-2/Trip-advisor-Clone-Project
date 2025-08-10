@@ -31,5 +31,5 @@ Live-Demo[https://dhinakaran-k-2.github.io/Trip-advisor-Clone-Project]
 ---
 
 ## 📁 Project Structure
-Git-Repository []
+Git-Repository [https://github.com/DHINAKARAN-K-2/Trip-advisor-Clone-Project.git]
 
